@@ -2,3 +2,13 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Player enters a number 1 to 10
+Computer generates a Random number (1,10)
+Compare entered number to random number
+If number is == random number, print Correct!
+If number is == random number, print Game Over!
+If number is != random number, print oops, try again
+If number is <=3 tries, print oops, try again
+If number is == random numbers, print Correct, Good Job!
+If number is == 3 tries, print Game Over!
+If number is >10, print Error
