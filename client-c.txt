@@ -2,3 +2,9 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Counter starts with 2
+Counter is 2 to 50
+Counter will add by 2
+For loop i in range (2,50)
+(i = 2, i <= 50, i == 50)
+Counter stops at 50
