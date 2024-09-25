@@ -2,3 +2,4 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+enter warehouse from the south, for loop i in range a is to the right then go east, for loop i in range b is to the left then go west for loop i in range c is in front of you then go north, for loop i in range d is at the door then go south
